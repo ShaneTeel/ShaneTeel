@@ -5,13 +5,6 @@ I served as an All-Source Intelligence Analyst in the U.S. Army since October 20
 I completed a 3-month accelerated Data Science program and am actively pursuing a Bachelors of Science in Data Science through Arizona State University.
 I'm currently focused on both computer vision and hope to find a career as a computer vision engineer.
 
-### My skills...
-- Python
-- SQL
-- Java
-- Computer Vision
-- Traditional Machine Learning
-
 ### My interests...
 - Learning (I love it and hope to never stop!)
 - Baking / Cooking
