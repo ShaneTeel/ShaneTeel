@@ -10,6 +10,5 @@ In April 2025, I completed a 3-month accelerated Data Science program provided t
 - Reading
 
 ### How to connect...
-[LinkedIn](www.linkedin.com/in/shane-teel)
 
 [Email](mailto:svteel1106@icloud.com)
