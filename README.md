@@ -14,7 +14,7 @@
 *    🧠 **ML & Stats:** Regression | Classification | Clustering | Model Evaluation | Hypothesis Testing | Markov Chains | Kalman Filtering
 *    🌐 **Geospatial:** Shapely | GeoPy | Folium | Trajectory Analysis | Pattern-of-Life Analysis | Stay-Point Detection | GeoPandas
 *    ⚙️ **Data Processing:** Python (Pandas, NumPy) | SQL | ETL Workflows | Java | Feature Engineering
-*    💻 **Dev & Ship:** Streamlit | Dashboard Development | Technical Reporting | Git | GitHub | VS Code | Conda | Bash
+*    💻 **Dev & Deliver:** Git | GitHub | VS Code | Conda | Bash | Streamlit | Dashboard Development | Technical Reporting
 
 
 ---
