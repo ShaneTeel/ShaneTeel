@@ -50,7 +50,7 @@ I'm chilling with Dude (my son), Pumpkin (daughter 1), Lady Bug (daughter 2), an
 Regardless of the weather or the day of the week, I love learning and am always looking for ways to be better.
 
 ---
-### 📫 Let's chat...
+### 📫 How to connect...
 
 I'm always open to a discussion on anything related to coding or the data science profession at large. Drop me a line and I'll probably get back to you in the evening while enjoying a glass of wine (got to get the kids down first).
 
