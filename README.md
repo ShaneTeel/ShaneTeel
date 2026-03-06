@@ -18,7 +18,7 @@ Data Scientist with 13 years of intelligence experience applying data-driven ana
 
 ### 🚀 Projects & Portfolio...
 *   🚗 [**Lane Detection Classic**](https://github.com/ShaneTeel/lane-detection-classic): Lane-Line Detection System that combines classical computer vision techniques with traditional machine learning.
-*   📡 [**Pattern-of-Life Toolkit**](https://github.com/ShaneTeel/pattern-of-life-analysis): Python package + Demo App for understanding, processing, analyzing, and modeling individual-level mobility derived from location-based services.
+*   📡 [**Pattern-of-Life Analysis Toolkit**](https://github.com/ShaneTeel/pattern-of-life-analysis): Python package + Demo App for understanding, processing, analyzing, and modeling individual-level mobility derived from location-based services.
 *   🗺️ [**Traffic Conflict Detection**](https://github.com/ShaneTeel/traffic-conflict-detection): Computer vision system that detects, catalogues, and geolocates vehicle conflict events from traffic camera footage by transforming pixel-space conflict coordinates into real-world geographic coordinates.
 
 ---
