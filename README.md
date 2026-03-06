@@ -40,4 +40,4 @@ I'm always open to a discussion on anything related to coding or the data scienc
 
 ### 📊 GitHub Stats...
 
-![Shane's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ShaneTeel)
+![Shane's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ShaneTeel&theme=radical)
