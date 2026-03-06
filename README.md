@@ -34,6 +34,7 @@
 *Processed over 350,000 GPS traces*
 
 ![Taxonomy Global View](https://github.com/ShaneTeel/pattern-of-life-analysis/blob/main/media/tax-global-view.png)
+![Location Profile Charts](https://github.com/ShaneTeel/pattern-of-life-analysis/blob/main/media/profile_chart.png)
 
 🚗 [**Lane Detection Classic**](https://github.com/ShaneTeel/lane-detection-classic): Lane-line detection pipeline that combines classical computer vision techniques with traditional machine learning.
 
