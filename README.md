@@ -25,21 +25,21 @@
 
 ![Multi-Object Tracking](https://github.com/ShaneTeel/traffic-conflict-detection/blob/main/media/readme/multi-object-tracking.gif)
 
-Geolocation within 1.47 meters (RMSE)
+*Geolocation within 1.47 meters (RMSE)*
 
 ![Conflict HeatMap](https://github.com/ShaneTeel/traffic-conflict-detection/blob/main/media/readme/conflict-heatmap.png)
 
 📡 [**Pattern-of-Life Analysis Toolkit**](https://github.com/ShaneTeel/pattern-of-life-analysis): Python package + Demo App for evaluating, processing, analyzing, and modeling individual-level mobility derived from location-based services.
 
-![Taxonomy Global View](https://github.com/ShaneTeel/pattern-of-life-analysis/blob/main/media/tax-global-view.png)
+*Processed over 350,000 GPS traces*
 
-Processed over 350,000 gps traces
+![Taxonomy Global View](https://github.com/ShaneTeel/pattern-of-life-analysis/blob/main/media/tax-global-view.png)
 
 🚗 [**Lane Detection Classic**](https://github.com/ShaneTeel/lane-detection-classic): Lane-line detection pipeline that combines classical computer vision techniques with traditional machine learning.
 
-![Curved Road Demo](https://github.com/ShaneTeel/lane-detection-classic/blob/main/media/out/readme/curved-edge-direct-demo.gif)
+*0.94-0.99 R2 scores*
 
-0.94-0.99 R2 Accuracy Scores
+![Curved Road Demo](https://github.com/ShaneTeel/lane-detection-classic/blob/main/media/out/readme/curved-edge-direct-demo.gif)
 
 ---
 
