@@ -1,24 +1,26 @@
-# 👋 Hey there!
+## 👋 Hey, I'm Shane...
 
-### 📊 About Me
+### 🔍 About Me...
 Data Scientist with 13 years of intelligence experience applying data-driven analysis to drive operational success in high-stakes environments. Completed 400-hour data science immersive.
 
-*   **⚡ Core Competencies:** Machine Learning, Computer Vision, Geospatial Analytics, Predictive Modeling.
-*   **🎯 Goal:** Translate complex, large-scale data into actionable insights and robust technical solutions.
-*   **🛠️ Technical Stack:**
-    *    *Computer Vision & Deep Learning:* YOLOv8 | OpenCV | Multi-Object Tracking (Supervision) | Kalman Filtering | RANSAC | Real-Time Image Processing
-    *    *Machine Learning & Statistics:* scikit-learn | Regression | Classification | Clustering | Feature Engineering | Model Evaluation | Hypothesis Testing | Markov Chains
-    *    *Geospatial Analysis:* Shapely | GeoPy | Folium | Trajectory Analysis | Spatial Data Processing | Pattern-of-Life Analysis | Stay-Point Detection | GeoPandas
-    *    *Data Processing:* Python (Pandas, NumPy) | SQL | ETL Workflows | Data Cleaning & Transformation | Data Extraction & Aggregation
-    *    *Development & Deployment:* Streamlit | Dashboard Development | Technical Reporting | Stakeholder Presentations | Git | GitHub | VS Code | Conda | Bash
+**⚡ Core Competencies:** Machine Learning, Computer Vision, Geospatial Analytics, Predictive Modeling.
 
+**🎯 Goal:** Translate complex, large-scale data into actionable insights and robust technical solutions.
+
+**🛠️ Technical Stack:**
+*    👁️ **CV & DL:** YOLOv8 | OpenCV | Multi-Object Tracking (Supervision) | Kalman Filtering | RANSAC | Real-Time Image Processing
+*    🧠 **ML & Stats:** Regression | Classification | Clustering | Feature Engineering | Model Evaluation | Hypothesis Testing | Markov Chains
+*    🌐 **Geospatial:** Shapely | GeoPy | Folium | Trajectory Analysis | Pattern-of-Life Analysis | Stay-Point Detection | GeoPandas
+*    ⚙️ **Data Processing:** Python (Pandas, NumPy) | SQL | ETL Workflows | Data Cleaning & Transformation | Data Extraction & Aggregation
+*    💻 **Dev & Ship:** Streamlit | Dashboard Development | Technical Reporting | Git | GitHub | VS Code | Conda | Bash
 
 ---
 
 ### 🚀 Projects & Portfolio...
-*   [**Lane Detection Classic**](https://github.com/ShaneTeel/lane-detection-classic): Lane-Line Detection System that combines classical computer vision techniques with traditional machine learning.
-*   [**Pattern-of-Life Toolkit**](https://github.com/ShaneTeel/pattern-of-life-analysis): Python package + Demo App for understanding, processing, analyzing, and modeling individual-level mobility derived from location-based services.
-*   [**Traffic Conflict Detection**](https://github.com/ShaneTeel/traffic-conflict-detection): Computer vision system that detects, catalogues, and geolocates vehicle conflict events from traffic camera footage by transforming pixel-space conflict coordinates into real-world geographic coordinates.
+*   🚗 [**Lane Detection Classic**](https://github.com/ShaneTeel/lane-detection-classic): Lane-Line Detection System that combines classical computer vision techniques with traditional machine learning.
+*   📡 [**Pattern-of-Life Toolkit**](https://github.com/ShaneTeel/pattern-of-life-analysis): Python package + Demo App for understanding, processing, analyzing, and modeling individual-level mobility derived from location-based services.
+*   🗺️ [**Traffic Conflict Detection**](https://github.com/ShaneTeel/traffic-conflict-detection): Computer vision system that detects, catalogues, and geolocates vehicle conflict events from traffic camera footage by transforming pixel-space conflict coordinates into real-world geographic coordinates.
+
 ---
 
 ### 🍳 When I'm not coding...
@@ -36,6 +38,6 @@ I'm always open to a discussion on anything related to coding or the data scienc
 
 ---
 
-### GitHub Stats...
+### 📊 GitHub Stats...
 
-![Shane's GitHub stats](https://github-readme-stats-eight-theta.vercel.app?username=ShaneTeel)
+![Shane's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ShaneTeel)
