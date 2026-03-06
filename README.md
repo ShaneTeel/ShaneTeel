@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Shane...
 
 ### 🔍 About Me...
-Data Scientist with 13 years of intelligence experience applying data-driven analysis to drive operational success in high-stakes environments. Completed 400-hour data science immersive.
+13 years of intelligence experience — now building systems at the intersection of computer vision and geospatial analysis that transform raw sensor data into actionable location intelligence.
 
 **⚡ Core Competencies:** Machine Learning, Computer Vision, Geospatial Analytics, Predictive Modeling.
 
@@ -17,9 +17,17 @@ Data Scientist with 13 years of intelligence experience applying data-driven ana
 ---
 
 ### 🚀 Projects & Portfolio...
-*   🚗 [**Lane Detection Classic**](https://github.com/ShaneTeel/lane-detection-classic): Lane-line detection pipeline that combines classical computer vision techniques with traditional machine learning.
-*   📡 [**Pattern-of-Life Analysis Toolkit**](https://github.com/ShaneTeel/pattern-of-life-analysis): Python package + Demo App for evaluating, processing, analyzing, and modeling individual-level mobility derived from location-based services.
-*   🗺️ [**Traffic Conflict Detection**](https://github.com/ShaneTeel/traffic-conflict-detection): Computer vision system that detects, catalogues, and geolocates vehicle conflict events from traffic camera footage by transforming pixel-space coordinates into real-world geographic coordinates.
+🚗 [**Lane Detection Classic**](https://github.com/ShaneTeel/lane-detection-classic): Lane-line detection pipeline that combines classical computer vision techniques with traditional machine learning.
+
+![Curved Road Demo](https://github.com/ShaneTeel/lane-detection-classic/blob/main/media/out/readme/curved-edge-direct-demo.gif)
+
+📡 [**Pattern-of-Life Analysis Toolkit**](https://github.com/ShaneTeel/pattern-of-life-analysis): Python package + Demo App for evaluating, processing, analyzing, and modeling individual-level mobility derived from location-based services.
+
+![Taxonomy Global View](https://github.com/ShaneTeel/pattern-of-life-analysis/blob/main/media/tax-global-view.png)
+
+🗺️ [**Traffic Conflict Detection**](https://github.com/ShaneTeel/traffic-conflict-detection): Computer vision system that detects, catalogues, and geolocates vehicle conflict events from traffic camera footage by transforming pixel-space coordinates into real-world geographic coordinates.
+
+![Multi-Object Tracking](https://github.com/ShaneTeel/traffic-conflict-detection/blob/main/media/readme/multi-object-tracking.gif)
 
 ---
 
