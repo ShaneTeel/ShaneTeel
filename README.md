@@ -11,7 +11,7 @@ Data Scientist with 13 years of intelligence experience applying data-driven ana
 *    👁️ **CV & DL:** YOLOv8 | OpenCV | Multi-Object Tracking (Supervision) | Kalman Filtering | RANSAC | Real-Time Image Processing
 *    🧠 **ML & Stats:** Regression | Classification | Clustering | Feature Engineering | Model Evaluation | Hypothesis Testing | Markov Chains
 *    🌐 **Geospatial:** Shapely | GeoPy | Folium | Trajectory Analysis | Pattern-of-Life Analysis | Stay-Point Detection | GeoPandas
-*    ⚙️ **Data Processing:** Python (Pandas, NumPy) | SQL | ETL Workflows | Data Cleaning & Transformation | Data Extraction & Aggregation
+*    ⚙️ **Data Processing:** Python (Pandas, NumPy) | SQL | ETL Workflows | Java | Data Cleaning & Transformation | Data Extraction & Aggregation
 *    💻 **Dev & Ship:** Streamlit | Dashboard Development | Technical Reporting | Git | GitHub | VS Code | Conda | Bash
 
 ---
