@@ -2,7 +2,7 @@
 
 ### 🔍 About Me...
 
-13 years of intelligence experience — now building systems at the intersection of computer vision and geospatial analysis that transform raw sensor data into actionable location intelligence.
+13 years of intelligence experience — now building systems at the intersection of computer vision and geospatial analytics designed to transform raw sensor data into actionable location intelligence.
 
 **⚡ Core Competencies:** Machine Learning, Computer Vision, Geospatial Analytics, Predictive Modeling.
 
