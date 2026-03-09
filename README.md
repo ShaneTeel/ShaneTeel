@@ -2,20 +2,15 @@
 
 ### 🔍 About Me...
 
-13 years of intelligence experience — now building systems at the intersection of computer vision and geospatial analytics designed to transform raw sensor data into actionable location intelligence.
-
-**⚡ Core Competencies:** Machine Learning, Computer Vision, Geospatial Analytics, Predictive Modeling.
-
-**🎯 Goal:** Improve the speed at which analysts can inform decisions and drive action.
+13 years of intelligence experience, completed 400-hour data science immersive, and am pursuing a BS in Data Science. Now, I'm actively building applied data science systems to scale intelligence workflows.
 
 **🛠️ Technical Stack:**
 
-*    👁️ **CV & DL:** YOLOv8 | OpenCV | Multi-Object Tracking (Supervision) | Homography | Image Filters | Real-Time Image Processing
-*    🧠 **ML & Stats:** Regression | Classification | Clustering | Model Evaluation | Hypothesis Testing | Markov Chains | Kalman Filtering
-*    🌐 **Geospatial:** Shapely | GeoPy | Folium | Trajectory Analysis | Pattern-of-Life Analysis | Stay-Point Detection | GeoPandas
-*    ⚙️ **Data Processing:** Python (Pandas, NumPy) | SQL | ETL Workflows | Java | Feature Engineering
-*    💻 **Dev & Deliver:** Git | GitHub | VS Code | Conda | Bash | Streamlit | Dashboard Development | Technical Reporting
-
+*    💻 **Programming & Development:** Python | SQL | Java | Conda | Git | GitHub | Bash | VS Code
+*    🧠 **Machine Learning:** scikit-learn | imbalanced-learn | Regression | Classification | Clustering | Kalman Filter | RANSAC | Markov Chains
+*    📈 **Data Analysis & Visualization:** Pandas | NumPy | SciPy | Matplotlib | Seaborn | Plotly
+*    🌐 **Spatial Analysis:** Shapely | GeoPy | Folium | GeoPandas | Trackintel | scikit-mobility
+*    👁️ **Computer Vision:** YOLOv8 | OpenCV | Supervision (Multi-Object Tracking) | Homography
 
 ---
 
